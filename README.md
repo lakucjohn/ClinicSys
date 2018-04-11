@@ -1,2 +1,3 @@
 # ClinicSys
-Test Clinic Management System
+
+This is the messaging section of the application
